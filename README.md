@@ -6,7 +6,7 @@ An intelligent document assistant that allows users to upload **PDFs, scanned PD
 
 ## 🚀 Live Demo
 
-🔗 **Live App:** https://YOUR-STREAMLIT-APP.streamlit.app
+🔗 **Live App:** https://doc-chat-aii.streamlit.app/
 
 ---
 
