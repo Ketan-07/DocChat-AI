@@ -1,0 +1,49 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.local
+
+# Python build files
+*.egg-info/
+build/
+dist/
+pip-wheel-metadata/
+
+# Streamlit
+.streamlit/
+!.streamlit/config.toml
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OCR tools (local only)
+poppler/
+Tesseract-OCR/
+
+# Temporary files
+*.tmp
+*.temp
